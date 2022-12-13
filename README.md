@@ -30,6 +30,6 @@
 ### 🤝🏻 &nbsp;Связь со мной
 
 <p align="center">
-<a href="https://vk.com/vladleach"><img src="https://img.shields.io/badge/-@vladleach-1877F2?style=flat&logo=vk&logoColor=white"/></a>
+<a href="https://vk.com/pawade"><img src="https://img.shields.io/badge/-@vladleach-1877F2?style=flat&logo=vk&logoColor=white"/></a>
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=new"><img src="https://img.shields.io/badge/-ckr.naikax@gmail.com-1877F2?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
