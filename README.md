@@ -12,7 +12,8 @@
 - Начинающий Frontend разработчик
 
 ### 💡 &nbsp;Хакатоны
-- Призер AccelProIT
+- Победитель квалификаций AccelProIT
+- Призер AccelProIT x ITBootcamp
 - Global Game Jam 2020
 - HACK-THE-ICE 4.0
 - GIS`IT 2023
