@@ -33,3 +33,5 @@
 <a href="https://vk.com/pawade"><img src="https://img.shields.io/badge/-@vladleach-1877F2?style=flat&logo=vk&logoColor=white"/></a>
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=new"><img src="https://img.shields.io/badge/-ckr.naikax@gmail.com-1877F2?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=pawadez&show_icons=true&theme=great-gatsby" alt="pawadez" />
