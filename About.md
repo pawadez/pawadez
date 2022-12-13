@@ -1,4 +1,4 @@
 UI/UX design & Frontend
 
 <br/>NodeJS<br/>
-Tailwind CSS
+<br/>Tailwind CSS<br/>
