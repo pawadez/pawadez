@@ -1,5 +1,5 @@
 UI/UX design & Frontend
 
 Currently learning:
-NodeJS
+<br/> NodeJS <br/> 
 Tailwind CSS
