@@ -15,7 +15,6 @@
 - Призер AccelProIT 2 Season x ITBootcamp
 - Global Game Jam 2020
 - HACK-THE-ICE 4.0
-- GIS`IT 2023
 
 ### 🛠 &nbsp;Стек технологий
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
