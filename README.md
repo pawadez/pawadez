@@ -7,13 +7,13 @@
 
 - Васильев Владлен Айаанович
 - Маркетолог
+- Product-менеджер
 - Начинающий UX/UI дизайнер
 - Unity разработчик
 
 ### 💡 &nbsp;Хакатоны
-- Победитель AccelProIT Online Qualification
-- Призер AccelProIT 2 Season x ITBootcamp
 - Global Game Jam 2020
+- Призер AccelProIT 2 Season x ITBootcamp
 - HACK-THE-ICE 4.0
 
 ### 🛠 &nbsp;Стек технологий
