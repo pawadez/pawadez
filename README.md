@@ -5,11 +5,11 @@
 
 ### 🌱 &nbsp;About me
 
-- Васильев Владлен Айаанович
-- Маркетолог
-- Product-менеджер
-- Начинающий UX/UI дизайнер
-- Unity разработчик
+- Vasilev Vladlen
+- IT-Marketer
+- Product-manager
+- UX/UI designer
+- Unity developer
 
 ### 💡 &nbsp;Hackathons
 - Global Game Jam 2020
