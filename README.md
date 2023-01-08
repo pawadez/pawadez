@@ -3,7 +3,7 @@
   <img src="tenor.gif" height="300" width="500">
 </p>
 
-### 🌱 &nbsp;Обо мне
+### 🌱 &nbsp;About me
 
 - Васильев Владлен Айаанович
 - Маркетолог
@@ -11,12 +11,12 @@
 - Начинающий UX/UI дизайнер
 - Unity разработчик
 
-### 💡 &nbsp;Хакатоны
+### 💡 &nbsp;Hackathons
 - Global Game Jam 2020
 - Призер AccelProIT 2 Season x ITBootcamp
 - HACK-THE-ICE 4.0
 
-### 🛠 &nbsp;Стек технологий
+### 🛠 &nbsp;Tech Stack
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=Csharp&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -27,7 +27,7 @@
 ![WebStorm](https://img.shields.io/badge/-WebStorm-05122A?style=flat&logo=webstorm&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma&logoColor=white)&nbsp;
 
-### 🤝🏻 &nbsp;Связь со мной
+### 🤝🏻 &nbsp;Contacts
 
 <p align="center">
 <a href="https://vk.com/pawade"><img src="https://img.shields.io/badge/-@vladleach-1877F2?style=flat&logo=vk&logoColor=white"/></a>
