@@ -13,7 +13,7 @@
 
 ### 💡 &nbsp;Hackathons
 - Global Game Jam 2020
-- Призер AccelProIT 2 Season x ITBootcamp
+- Winner AccelProIT 2 Season x ITBootcamp
 - HACK-THE-ICE 4.0
 
 ### 🛠 &nbsp;Tech Stack
