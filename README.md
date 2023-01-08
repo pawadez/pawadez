@@ -18,7 +18,7 @@
 
 ### 🛠 &nbsp;Стек технологий
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![C#](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=cs&logoColor=white)&nbsp;
+![C#](https://img.shields.io/badge/-Cs-05122A?style=flat&logo=cs&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=TailwindCss&logoColor=6E81B6)&nbsp;
