@@ -16,7 +16,6 @@
 - Winner AccelProIT 2 Season x ITBootcamp
 
 ### 🛠 &nbsp;Tech Stack
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=Csharp&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=TailwindCss&logoColor=6E81B6)&nbsp;
