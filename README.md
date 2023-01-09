@@ -14,7 +14,6 @@
 ### 💡 &nbsp;Hackathons
 - Global Game Jam 2020
 - Winner AccelProIT 2 Season x ITBootcamp
-- HACK-THE-ICE 4.0
 
 ### 🛠 &nbsp;Tech Stack
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
