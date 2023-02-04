@@ -7,7 +7,6 @@
 
 - Vasilev Vladlen
 - IT-Marketer
-- Product-manager
 - UX/UI designer
 - Unity developer
 
