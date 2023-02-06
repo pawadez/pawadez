@@ -17,7 +17,7 @@
 - Global Game Jam 2023 - 1st, "Best game" nomination
 
 ### 🛠 &nbsp;Tech Stack
-![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=Csharp&logoColor=white)&nbsp;
+![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=csharp&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS)&nbsp;
 ![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=TailwindCss&logoColor=6E81B6)&nbsp;
