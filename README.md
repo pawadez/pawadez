@@ -6,9 +6,9 @@
 ### 🌱 &nbsp;About me
 
 - Vasilev Vladlen
-- IT-Marketer
-- UX/UI designer
+- Beginner UX/UI designer
 - Unity developer
+- Beginner Unreal Engine developer
 
 ### 💡 &nbsp;Hackathons
 - Global Game Jam 2020
