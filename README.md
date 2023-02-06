@@ -18,7 +18,7 @@
 
 ### 🛠 &nbsp;Tech Stack
 ![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=csharp&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css)&nbsp;
 ![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=TailwindCss&logoColor=6E81B6)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
