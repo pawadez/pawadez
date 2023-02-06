@@ -5,10 +5,10 @@
 
 ### 🌱 &nbsp;About me
 
-- Vasilev Vladlen
-- Beginner UX/UI designer
-- Unity developer
-- Beginner Unreal Engine developer
+- &nbsp Vasilev Vladlen
+- &nbsp Beginner UX/UI designer
+- &nbsp Unity developer
+- &nbsp Beginner Unreal Engine developer
 
 ### 💡 &nbsp;Hackathons
 - Global Game Jam 2020
