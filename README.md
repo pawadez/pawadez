@@ -12,8 +12,9 @@
 
 ### 💡 &nbsp;Hackathons
 - Global Game Jam 2020
-- Winner AccelProIT 2 Season x ITBootcamp
-- HACK-the-ICE 4.0
+- AccelProIT Qualification - 1st
+- AccelProIT - 3rd
+- Global Game Jam 2023 - 1st, "Best game" nomination
 
 ### 🛠 &nbsp;Tech Stack
 ![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=Csharp&logoColor=white)&nbsp;
