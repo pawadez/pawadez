@@ -7,14 +7,16 @@
 
 - Vasilev Vladlen
 - Beginner UI/UX designer
+- Beginner Product-manager
 - Unity developer
-- Beginner Unreal Engine developer
 
-### 💡 &nbsp;Hackathons
+### 💡 &nbsp;Hackathons Experience
 - Global Game Jam 2020
 - AccelProIT Qualification - 1st
 - AccelProIT - 3rd
 - Global Game Jam 2023 - 1st, "Best game" nomination
+- MPIT Municipal 2023 - 2nd, "Best manager" nomination
+- MPIT Grand Final 2023 - High League, Top 10 teams
 
 ### 🛠 &nbsp;Tech Stack
 ![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=csharp&logoColor=white)&nbsp;
