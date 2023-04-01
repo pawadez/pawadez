@@ -9,7 +9,7 @@
   Vasilev Vladlen
   
 - Place:
-  Russian Federation, Republic of Sakha (Yakutia)
+  Russian Federation, Republic of Sakha (Yakutia), Yakutsk City
 - Skills:
   Beginner UI/UX designer,
   Beginner Product-manager,
