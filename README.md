@@ -11,7 +11,7 @@
 - Skills:
   Beginner UI/UX designer,
   Beginner Product-manager,
-  Unity developer,
+  Unity developer
 
 - Job:
   International School of Programming "Expo Skills",
