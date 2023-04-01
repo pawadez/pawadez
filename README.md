@@ -9,12 +9,12 @@
   Vasilev Vladlen
   
 - Skills:
-  Beginner UI/UX designer
-  Beginner Product-manager
-  Unity developer
+  Beginner UI/UX designer,
+  Beginner Product-manager,
+  Unity developer,
 
 - Job:
-  International School of Programming "Expo Skills"
+  International School of Programming "Expo Skills",
   Game Development Studio "Fables Games"
   
 ### 💡 &nbsp;Hackathons Experience
