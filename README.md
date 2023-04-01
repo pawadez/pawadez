@@ -19,8 +19,8 @@
   
 ### 💡 &nbsp;Hackathons Experience
 - Global Game Jam 2020
-- AccelProIT Qualification - 1st
-- AccelProIT - 3rd
+- AccelProIT - 1st
+- ITBootcamp - 3rd
 - Global Game Jam 2023 - 1st, "Best game" nomination
 - MPIT Municipal 2023 - 2nd, "Best Product-manager" nomination
 - MPIT Grand Final 2023 - High League, Top 10 teams
