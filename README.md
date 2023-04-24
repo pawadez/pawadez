@@ -11,9 +11,8 @@
 - Place:
   Russian Federation, Republic of Sakha (Yakutia), Yakutsk City
 - Skills:
-  Beginner UI/UX designer,
-  Beginner Product-manager,
-  Unity developer
+  Intermediate UX/UI designer,
+  Intermediate Product-manager,
 
 - Job:
   International School of Programming "Expo Skills",
@@ -23,19 +22,12 @@
 - Global Game Jam 2020
 - AccelProIT 2022 - 1st
 - ITBootcamp 2022 - 3rd
-- Global Game Jam 2023 - 1st, "Best game" nomination
-- MPIT Municipal 2023 - 2nd, "Best Product-manager" nomination
+- Global Game Jam 2023 - 1st, "Best game" award
+- MPIT Municipal 2023 - 2nd, "Best Product-manager" award
 - MPIT Grand Final 2023 - High League, Top 10 teams
 
 ### 🛠 &nbsp;Tech Stack
-![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=csharp&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3)&nbsp;
-![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=TailwindCss&logoColor=6E81B6)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma&logoColor=white)&nbsp;
-![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity)&nbsp;
-![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-05122A?style=flat&logo=unreal-engine)&nbsp;
 
 ### 🤝🏻 &nbsp;Contacts
 
