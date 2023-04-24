@@ -30,7 +30,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma&logoColor=white)&nbsp;
 ![CS](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=csharp&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html&logoColor=white)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html&logoColor=white)&nbsp;
 
 ### 🤝🏻 &nbsp;Contacts
 
