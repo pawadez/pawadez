@@ -35,7 +35,7 @@
 ### 🤝🏻 &nbsp;Contacts
 
 <p align="center">
-<a href="https://vk.com/pawade"><img src="https://img.shields.io/badge/-@vladleach-1877F2?style=flat&logo=vk"/></a>
+<a href="https://vk.com/pawade"><img src="https://img.shields.io/badge/-@pawade-1877F2?style=flat&logo=vk"/></a>
 <a href="https://t.me/pawadez"><img src="https://img.shields.io/badge/-@pawadez-1877F2?style=flat&logo=telegram"/></a>
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=new"><img src="https://img.shields.io/badge/-ckr.naikax@gmail.com-1877F2?style=flat&logo=gmail"/></a>
 </p>
