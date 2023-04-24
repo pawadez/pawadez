@@ -12,7 +12,7 @@
   Russian Federation, Republic of Sakha (Yakutia), Yakutsk City
 - Skills:
   Intermediate UX/UI designer,
-  Intermediate Product-manager,
+  Intermediate Product-manager
 
 - Job:
   International School of Programming "Expo Skills",
