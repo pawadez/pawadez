@@ -31,7 +31,18 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html&logoColor=white)&nbsp;
 ![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss&logoColor=white)&nbsp;
-
+HTML5
+CSS3
+JavaScript
+Laravel
+BootStrap
+MySQL
+PostGreSQL
+Git
+GitHub
+PhpStorm
+Visual Studio Code
+Visual Studio
 ### 🤝🏻 &nbsp;Contacts
 
 <p align="center">
