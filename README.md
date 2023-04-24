@@ -30,7 +30,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma&logoColor=white)&nbsp;
 ![CS](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=csharp&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css&logoColor=white)&nbsp;
-![HTML]([https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html&logoColor=white](https://img.shields.io/static/v1?label=Question&message=Unanswered&color=lightgrey&link=https://stackoverflow.com/&link=https://stackoverflow.com/questions/66716288/embedding-shields-io-badge-html-in-github-readme-rst)&nbsp;
+![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwind&logoColor=white)&nbsp;
 
 ### 🤝🏻 &nbsp;Contacts
 
