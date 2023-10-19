@@ -17,7 +17,7 @@
 - Global Game Jam 2023
 - MPIT Municipal 2023
 - MPIT Republican Grand-Final 2023, Yakutsk City
-- MPIT Russian Federation Grand-Final 2023, Moscow
+- MPIT Russian Federation Grand-Final 2023, Moscow City
 
 ### 🛠 &nbsp;Tech Stack
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma&logoColor=white)&nbsp;
