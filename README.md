@@ -7,7 +7,7 @@
 
 - Vasilev Vladlen
 - 18 years old
-- Russian Federation, Republic of Sakha (Yakutia), Yakutsk City
+- Russian Federation, Republic of Sakha (Yakutia)
 - Intern UX/UI designer,
   
 ### 💡 &nbsp;Hackathons Experience
