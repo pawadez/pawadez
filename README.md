@@ -8,15 +8,16 @@
 - Vasilev Vladlen
 - 18 years old
 - Russian Federation, Republic of Sakha (Yakutia)
-- Intern UX/UI designer,
+- UX/UI designer,
   
 ### 💡 &nbsp;Hackathons Experience
 - Global Game Jam 2020
 - AccelProIT 2022 - 1st
 - ITBootcamp 2022 - 3rd
 - Global Game Jam 2023 - 1st, "Best game" award
-- MPIT Municipal 2023 - 2nd, "Best Product-manager" award
-- MPIT Grand Final 2023 - High League
+- MPIT Municipal 2023, Yakutsk City - 2nd, "Best Product-manager" award
+- MPIT Republican of Sakha Grand-Final 2023, Yakutsk City - High League
+- MPIT Russian Federation Grand-Final 2023, Moscow
 
 ### 🛠 &nbsp;Tech Stack
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma&logoColor=white)&nbsp;
