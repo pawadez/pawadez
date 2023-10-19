@@ -12,11 +12,11 @@
   
 ### 💡 &nbsp;Hackathons Experience
 - Global Game Jam 2020
-- AccelProIT 2022 - 1st
-- ITBootcamp 2022 - 3rd
-- Global Game Jam 2023 - 1st, "Best game" award
-- MPIT Municipal 2023, Yakutsk City - 2nd, "Best Product-manager" award
-- MPIT Republican of Sakha Grand-Final 2023, Yakutsk City - High League
+- AccelProIT 2022
+- ITBootcamp 2022
+- Global Game Jam 2023
+- MPIT Municipal 2023
+- MPIT Republican Grand-Final 2023, Yakutsk City
 - MPIT Russian Federation Grand-Final 2023, Moscow
 
 ### 🛠 &nbsp;Tech Stack
