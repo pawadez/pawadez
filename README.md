@@ -5,13 +5,10 @@
 
 ### 🌱 &nbsp;About me
 
-- Name:
-  Vasilev Vladlen
+- Vasilev Vladlen
   
-- Place:
-  Russian Federation, Republic of Sakha (Yakutia), Yakutsk City
-- Skills:
-  Intern UX/UI designer,
+- Russian Federation, Republic of Sakha (Yakutia), Yakutsk City
+- Intern UX/UI designer,
   
 ### 💡 &nbsp;Hackathons Experience
 - Global Game Jam 2020
