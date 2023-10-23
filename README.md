@@ -1,5 +1,5 @@
 </p>
-<p align="center">
+<p align="left">
   <img src="tokyo-revengers-mikey.gif" height="300" width="500">
 </p>
 
