@@ -1,6 +1,6 @@
 </p>
 <p align="center">
-  <img src="tenor.gif" height="300" width="500">
+  <img src="tokyo-revengers-mikey.gif" height="300" width="500">
 </p>
 
 ### 🌱 &nbsp;About me
