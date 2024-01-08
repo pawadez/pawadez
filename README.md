@@ -25,6 +25,7 @@
 ![Adobe Illustrator](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe&logoColor=white)&nbsp;
 ![Adobe Illustrator](https://img.shields.io/badge/-AfterEffects-05122A?style=flat&logo=adobe&logoColor=white)&nbsp;
 ![Adobe Illustrator](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe&logoColor=white)&nbsp;
+![Adobe Illustrator](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity&logoColor=white)&nbsp;
 
 ### 🤝🏻 &nbsp;Contacts
 
