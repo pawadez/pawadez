@@ -10,7 +10,7 @@
 - Russian Federation, Republic of Sakha (Yakutia)
 - UX/UI designer,
   
-### 💡 &nbsp;Hackathons Experience
+### 💡 &nbsp;Hackathon Experience
 - Global Game Jam 2020
 - AccelProIT 2022
 - ITBootcamp 2022
