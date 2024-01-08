@@ -16,11 +16,6 @@
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma&logoColor=white)&nbsp;
 ![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-05122A?style=flat&logo=adobe&logoColor=white)&nbsp;
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-05122A?style=flat&logo=adobe&logoColor=white)&nbsp;
-![Adobe AfterEffects](https://img.shields.io/badge/-Adobe%20AfterEffects-05122A?style=flat&logo=adobe&logoColor=white)&nbsp;
-![Adobe InDesign](https://img.shields.io/badge/-Adobe%20InDesign-05122A?style=flat&logo=adobe&logoColor=white)&nbsp;
-![HTML5](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=white)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=white)&nbsp;
 
 
 
