@@ -1,9 +1,7 @@
 ### 🌱 &nbsp;About me
 
 - Vasilev Vladlen
-- 18 years old
-- Russian Federation, Republic of Sakha (Yakutia)
-- UX/UI designer,
+- UX/UI designer
   
 ### 💡 &nbsp;Hackathon Experience
 - Global Game Jam 2020
