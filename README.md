@@ -20,16 +20,16 @@
 - MPIT Russian Federation Grand-Final 2023, Moscow
 
 ### 🛠 &nbsp;Tech Stack
-![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma&logoColor=white);;
-![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe&logoColor=white);;
-![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe&logoColor=white);;
-![Adobe AfterEffects](https://img.shields.io/badge/-AfterEffects-05122A?style=flat&logo=adobe&logoColor=white);;
-![Adobe InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe&logoColor=white);;
-![HTML](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6);;
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma&logoColor=white)&nbsp;
+![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe&logoColor=white)&nbsp;
+![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe&logoColor=white)&nbsp;
+![Adobe AfterEffects](https://img.shields.io/badge/-AfterEffects-05122A?style=flat&logo=adobe&logoColor=white)&nbsp;
+![Adobe InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe&logoColor=white)&nbsp;
+![HTML](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=EDEDED)&nbsp;
-![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity&logoColor=white);;
-![Unreal Engine](https://img.shields.io/badge/-UnrealEngine-05122A?style=flat&logo=unrealengine&logoColor=white);;
-![Roblox Studio](https://img.shields.io/badge/-RobloxStudio-05122A?style=flat&logo=roblox&logoColor=white);;
+![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity&logoColor=white)&nbsp;
+![Unreal Engine](https://img.shields.io/badge/-UnrealEngine-05122A?style=flat&logo=unrealengine&logoColor=white)&nbsp;
+![Roblox Studio](https://img.shields.io/badge/-RobloxStudio-05122A?style=flat&logo=roblox&logoColor=white)&nbsp;
 
 
 ### 🤝🏻 &nbsp;Contacts
