@@ -16,7 +16,7 @@
 - ITBootcamp 2022
 - Global Game Jam 2023
 - MPIT Municipal 2023
-- MPIT Republican Grand-Final 2023, Yakutsk
+- MPIT Republican Final 2023, Yakutsk
 - MPIT Russian Federation Grand-Final 2023, Moscow
 
 ### 🛠 &nbsp;Tech Stack
