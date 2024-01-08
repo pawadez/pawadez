@@ -20,7 +20,7 @@
 - MPIT Russian Federation Grand-Final 2023, Moscow
 
 ### 🛠 &nbsp;Tech Stack
-![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma&logoColor=#FFFFFF)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma&logoColor=#FFFFF)&nbsp;
 ![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe&logoColor=white)&nbsp;
 ![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe&logoColor=white)&nbsp;
 ![Adobe AfterEffects](https://img.shields.io/badge/-AfterEffects-05122A?style=flat&logo=adobe&logoColor=white)&nbsp;
