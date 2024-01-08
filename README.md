@@ -21,7 +21,7 @@
 
 ### 🛠 &nbsp;Tech Stack
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma&logoColor=white)&nbsp;
-![Adobe Illustrator](https://img.shields.io/badge/-Ai-05122A?style=flat&logo=ai&logoColor=white)&nbsp;
+![Adobe Illustrator](https://img.shields.io/badge/-Adobe Illustrator-05122A?style=flat&logo=adobeillustrator&logoColor=white)&nbsp;
 
 ### 🤝🏻 &nbsp;Contacts
 
