@@ -1,6 +1,6 @@
 </p>
 <p align="left">
-  <img src="tokyo-revengers-mikey.gif" height="300" width="500">
+  <img src="tokyo-revengers-mikey.gif" height="600" width="1000">
 </p>
 
 ### 🌱 &nbsp;About me
