@@ -25,11 +25,13 @@
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-05122A?style=flat&logo=adobe&logoColor=white)&nbsp;
 ![Adobe AfterEffects](https://img.shields.io/badge/-Adobe%20AfterEffects-05122A?style=flat&logo=adobe&logoColor=white)&nbsp;
 ![Adobe InDesign](https://img.shields.io/badge/-Adobe%20InDesign-05122A?style=flat&logo=adobe&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=white)&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=white)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity&logoColor=white)&nbsp;
 ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-05122A?style=flat&logo=unrealengine&logoColor=white)&nbsp;
 ![Roblox Studio](https://img.shields.io/badge/-Roblox%20Studio-05122A?style=flat&logo=roblox&logoColor=white)&nbsp;
+
 
 
 ### 🤝🏻 &nbsp;Contacts
