@@ -26,7 +26,7 @@
 ![Adobe AfterEffects](https://img.shields.io/badge/-AfterEffects-05122A?style=flat&logo=adobe&logoColor=white);;
 ![Adobe InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe&logoColor=white);;
 ![HTML](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6);;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=white);;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=EDEDED);;
 ![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity&logoColor=white);;
 ![Unreal Engine](https://img.shields.io/badge/-UnrealEngine-05122A?style=flat&logo=unrealengine&logoColor=white);;
 ![Roblox Studio](https://img.shields.io/badge/-RobloxStudio-05122A?style=flat&logo=roblox&logoColor=white);;
