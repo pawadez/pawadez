@@ -28,7 +28,7 @@
 ![Adobe Illustrator](https://img.shields.io/badge/-Aseprite-05122A?style=flat&logo=aseprite&logoColor=white)&nbsp;
 ![Adobe Illustrator](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity&logoColor=white)&nbsp;
 ![Adobe Illustrator](https://img.shields.io/badge/-UE4-05122A?style=flat&logo=unrealengine&logoColor=white)&nbsp;
-![Adobe Illustrator](https://img.shields.io/badge/-Roblox&Studio-05122A?style=flat&logo=roblox&logoColor=white)&nbsp;
+![Adobe Illustrator](https://img.shields.io/badge/-Roblox-Studio-05122A?style=flat&logo=roblox&logoColor=white)&nbsp;
 
 ### 🤝🏻 &nbsp;Contacts
 
