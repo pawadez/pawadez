@@ -14,4 +14,4 @@
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=new"><img src="https://img.shields.io/badge/-vladlen.offers@gmail.com-1877F2?style=flat&logo=gmail"/></a>
 </p>
 
-<p align="stretch"> <img src="https://github-readme-stats.vercel.app/api?username=pawadez&show_icons=true&theme=great-gatsby" alt="pawadez" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=pawadez&show_icons=true&theme=great-gatsby" alt="pawadez" />
