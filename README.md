@@ -1,6 +1,6 @@
 ### 🌱 &nbsp;About me
 - Vasilev Vladlen
-- UX/UI designer
+- Middle product designer
 
 ### 🛠 &nbsp;Tech Stack
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma&logoColor=white)&nbsp;
