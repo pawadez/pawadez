@@ -4,7 +4,7 @@
 
 **Дизайнер интерфейсов с 3 годами опыта в B2C и B2B**
 
-[Portfolio](https://pawade.framer.ai/) · [Telegram](https://t.me/pawadez/)
+[Портфолио](https://pawade.framer.ai/) · [Telegram](https://t.me/pawadez/)
 
 </div>
 
