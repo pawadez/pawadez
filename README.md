@@ -12,4 +12,4 @@
 
 ### Стек
 
-`Figma` `Photoshop` `Illustrator` `HTML` `CSS` `Framer`
+`Figma` `Photoshop` `Illustrator` `Framer` `HTML` `CSS`
