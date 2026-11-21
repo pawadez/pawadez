@@ -1,12 +1,8 @@
-<div align="center">
-
 # Привет, я Влад!
 
 **Дизайнер интерфейсов с 3 годами опыта в B2C и B2B**
 
 [Портфолио](https://pawade.framer.ai/) · [Telegram](https://t.me/pawadez/)
-
-</div>
 
 ---
 
@@ -17,7 +13,3 @@
 ### TOOLKIT
 
 `Figma` `Photoshop` `Illustrator` `HTML` `CSS` `Framer`
-
-<div align="center">
-
-</div>
