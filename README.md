@@ -1,6 +1,6 @@
 # Владлен Васильев
 
-**Продуктовый дизайнер с 3 годами опыта в B2C и B2B**<br>
+**Продуктовый дизайнер с 3 годами опыта в B2C и B2B. Сейчас работаю в CODEX-IT**<br>
 ex. Booky, Qwantum, SmartUnit
 
 [Портфолио](https://pawade.framer.ai/) · [Telegram](https://t.me/pawadez/)
