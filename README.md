@@ -1,2 +1,23 @@
-# README.md
-About me
+<div align="center">
+
+# Привет, я Влад! ✳
+
+**Дизайнер интерфейсов с 3 годами опыта в B2C и B2B**
+
+[Portfolio](https://pawade.framer.ai/) · [Telegram](https://t.me/pawadez/)
+
+</div>
+
+---
+
+### Обо мне
+
+Люблю визуальную простоту, продуманные детали и нестандартные идеи. Исследую дизайн, вдохновляюсь окружающим миром и создаю что-то новое. В процессе постоянного поиска и развития.
+
+### TOOLKIT
+
+`Figma` `Photoshop` `Illustrator` `HTML` `CSS`
+
+<div align="center">
+
+</div>
