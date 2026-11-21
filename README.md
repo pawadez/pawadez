@@ -1,7 +1,7 @@
 # Владлен Васильев
 
 **Дизайнер интерфейсов с 3 годами опыта в B2C и B2B**
-**ex. Booky, Qwantum, SmartUnit**
+ex. Booky, Qwantum, SmartUnit
 
 [Портфолио](https://pawade.framer.ai/) · [Telegram](https://t.me/pawadez/)
 
