@@ -1,6 +1,6 @@
 <div align="center">
 
-# Привет, я Влад! ✳
+# Привет, я Влад!
 
 **Дизайнер интерфейсов с 3 годами опыта в B2C и B2B**
 
@@ -16,7 +16,7 @@
 
 ### TOOLKIT
 
-`Figma` `Photoshop` `Illustrator` `HTML` `CSS`
+`Figma` `Photoshop` `Illustrator` `HTML` `CSS` `Framer`
 
 <div align="center">
 
